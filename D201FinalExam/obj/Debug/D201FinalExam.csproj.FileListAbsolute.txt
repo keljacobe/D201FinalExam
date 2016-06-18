@@ -1,0 +1,24 @@
+D:\Projects\D201FinalExam\D201FinalExam\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\D201FinalExam\D201FinalExam\obj\Debug\D201FinalExam.Form1.resources
+D:\Projects\D201FinalExam\D201FinalExam\obj\Debug\D201FinalExam.Properties.Resources.resources
+D:\Projects\D201FinalExam\D201FinalExam\obj\Debug\D201FinalExam.csproj.GenerateResource.Cache
+D:\Projects\D201FinalExam\D201FinalExam\bin\Debug\D201FinalExam.exe
+D:\Projects\D201FinalExam\D201FinalExam\bin\Debug\D201FinalExam.pdb
+D:\Projects\D201FinalExam\D201FinalExam\obj\Debug\D201FinalExam.exe
+D:\Projects\D201FinalExam\D201FinalExam\obj\Debug\D201FinalExam.pdb
+D:\D201FinalExam\D201FinalExam\obj\Debug\D201FinalExam.exe
+D:\D201FinalExam\D201FinalExam\obj\Debug\D201FinalExam.pdb
+D:\D201FinalExam\D201FinalExam\bin\Debug\D201FinalExam.exe
+D:\D201FinalExam\D201FinalExam\bin\Debug\D201FinalExam.pdb
+D:\D201FinalExam\D201FinalExam\obj\Debug\D201FinalExam.csprojResolveAssemblyReference.cache
+D:\D201FinalExam\D201FinalExam\obj\Debug\D201FinalExam.Form1.resources
+D:\D201FinalExam\D201FinalExam\obj\Debug\D201FinalExam.Properties.Resources.resources
+D:\D201FinalExam\D201FinalExam\obj\Debug\D201FinalExam.csproj.GenerateResource.Cache
+D:\BICT\Year 2\Advance Programming\D201FinalExam\D201FinalExam\obj\Debug\D201FinalExam.exe
+D:\BICT\Year 2\Advance Programming\D201FinalExam\D201FinalExam\obj\Debug\D201FinalExam.pdb
+D:\BICT\Year 2\Advance Programming\D201FinalExam\D201FinalExam\bin\Debug\D201FinalExam.exe
+D:\BICT\Year 2\Advance Programming\D201FinalExam\D201FinalExam\bin\Debug\D201FinalExam.pdb
+D:\BICT\Year 2\Advance Programming\D201FinalExam\D201FinalExam\obj\Debug\D201FinalExam.csprojResolveAssemblyReference.cache
+D:\BICT\Year 2\Advance Programming\D201FinalExam\D201FinalExam\obj\Debug\D201FinalExam.Form1.resources
+D:\BICT\Year 2\Advance Programming\D201FinalExam\D201FinalExam\obj\Debug\D201FinalExam.Properties.Resources.resources
+D:\BICT\Year 2\Advance Programming\D201FinalExam\D201FinalExam\obj\Debug\D201FinalExam.csproj.GenerateResource.Cache
